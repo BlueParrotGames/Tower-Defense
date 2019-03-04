@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: e8a0578aff0ebfc4095f5f3f1a5d7958
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base
+    100002: FirstFocus
+    100004: InnerRing1
+    100006: InnerRing2
+    100008: //RootNode
+    100010: LeftShield
+    100012: MainCluster
+    100014: OuterRing1
+    100016: OuterRing2
+    100018: PosteriorShield
+    100020: RightShield
+    100022: SecondCluster
+    100024: SecondFocus
+    400000: Base
+    400002: FirstFocus
+    400004: InnerRing1
+    400006: InnerRing2
+    400008: //RootNode
+    400010: LeftShield
+    400012: MainCluster
+    400014: OuterRing1
+    400016: OuterRing2
+    400018: PosteriorShield
+    400020: RightShield
+    400022: SecondCluster
+    400024: SecondFocus
+    2100000: Material
+    2100002: No Name
+    2300000: Base
+    2300002: FirstFocus
+    2300004: InnerRing1
+    2300006: InnerRing2
+    2300008: LeftShield
+    2300010: MainCluster
+    2300012: OuterRing1
+    2300014: OuterRing2
+    2300016: PosteriorShield
+    2300018: RightShield
+    2300020: SecondCluster
+    2300022: SecondFocus
+    3300000: Base
+    3300002: FirstFocus
+    3300004: InnerRing1
+    3300006: InnerRing2
+    3300008: LeftShield
+    3300010: MainCluster
+    3300012: OuterRing1
+    3300014: OuterRing2
+    3300016: PosteriorShield
+    3300018: RightShield
+    3300020: SecondCluster
+    3300022: SecondFocus
+    4300000: OuterRing2
+    4300002: InnerRing2
+    4300004: SecondCluster
+    4300006: MainCluster
+    4300008: LeftShield
+    4300010: RightShield
+    4300012: PosteriorShield
+    4300014: Base
+    4300016: SecondFocus
+    4300018: FirstFocus
+    4300020: InnerRing1
+    4300022: OuterRing1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
